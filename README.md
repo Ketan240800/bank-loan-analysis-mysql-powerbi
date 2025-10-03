@@ -18,7 +18,7 @@ It combines SQL for data extraction, Power BI for interactive dashboards, and th
 - [📝 SQL Queries](BANK%20LOAN%20REPORT%20QUERY%20DOCUMENT.docx) – SQL scripts for KPI analysis  
 - [📊 Power BI Dashboard](Overview%20Dashboard.pdf) – Dashboard summarizing insights  
 
-##⚡ Key KPIs (from SQL & Power BI)
+## Key KPIs (from SQL & Power BI)
 
 - Total Loan Applications: 38.6K
 - Total Funded Amount: $435.8M
