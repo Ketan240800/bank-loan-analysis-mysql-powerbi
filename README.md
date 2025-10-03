@@ -20,13 +20,13 @@ It combines SQL for data extraction, Power BI for interactive dashboards, and th
 
 ##⚡ Key KPIs (from SQL & Power BI)
 
-📌 Total Loan Applications: 38.6K
-📌 Total Funded Amount: $435.8M
-📌 Total Amount Received: $473.1M
-📌 Average Interest Rate: 12.0%
-📌 Average DTI (Debt-to-Income ratio): 13.3%
-✅ Good Loans: 86.2% (~33.2K applications)
-❌ Bad Loans: 13.8% (~5.3K applications)
+- Total Loan Applications: 38.6K
+- Total Funded Amount: $435.8M
+- Total Amount Received: $473.1M
+- Average Interest Rate: 12.0%
+- Average DTI (Debt-to-Income ratio): 13.3%
+- Good Loans: 86.2% (~33.2K applications)
+- Bad Loans: 13.8% (~5.3K applications)
 
 
 
