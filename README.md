@@ -28,8 +28,12 @@ It combines SQL for data extraction, Power BI for interactive dashboards, and th
 - Good Loans: 86.2% (~33.2K applications)
 - Bad Loans: 13.8% (~5.3K applications)
 
+## 🛠️ Tools & Technologies
 
+- SQL (MySQL / PostgreSQL) → Data extraction, cleaning, KPI calculations
+- Power BI → Dashboard creation, data visualization
 
+- [📊 Live Power BI Dashboard](https://app.powerbi.com/view?r=YOUR_DASHBOARD_LINK)
 
 
 
