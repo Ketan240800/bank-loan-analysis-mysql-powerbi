@@ -44,6 +44,10 @@ The dashboard highlights:
 ## 📊 Explore Dashboard
 - [📊 Live Power BI Dashboard](https://app.powerbi.com/view?r= "C:\Users\91907\OneDrive\Desktop\Bank loan Project\Overview Dashboard.pbix")
 
+## 👨‍💻 Author
 
+Ketan Wadibhasme
+📧 [wadibhasmeketan@gmail.com]
+🔗 [www.linkedin.com/in/ketan-wadibhasme]
 
 
