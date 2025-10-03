@@ -47,7 +47,9 @@ The dashboard highlights:
 ## 👨‍💻 Author
 
 Ketan Wadibhasme
+
 📧 [wadibhasmeketan@gmail.com]
+
 🔗 [www.linkedin.com/in/ketan-wadibhasme]
 
 
