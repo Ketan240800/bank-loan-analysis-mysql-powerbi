@@ -12,7 +12,11 @@ It combines SQL for data extraction, Power BI for interactive dashboards, and th
 - Analyze borrower demographics (state, term, employment length, home ownership, purpose)
 - Provide a data-driven dashboard for business decision-making
 
+## 📂 Project Structure / Files
 
+- [📄 financial_loan.csv](financial_loan.csv) – Dataset with loan records  
+- [📝 SQL Queries](BANK%20LOAN%20REPORT%20QUERY%20DOCUMENT.docx) – SQL scripts for KPI analysis  
+- [📊 Power BI Dashboard](Overview%20Dashboard.pdf) – Dashboard summarizing insights  
 
 
 
