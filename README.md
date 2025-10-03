@@ -33,6 +33,7 @@ It combines SQL for data extraction, Power BI for interactive dashboards, and th
 - SQL (MySQL / PostgreSQL) → Data extraction, cleaning, KPI calculations
 - Power BI → Dashboard creation, data visualization
 
+## 📊 Explore Dashboard
 - [📊 Live Power BI Dashboard](https://app.powerbi.com/view?r= "C:\Users\91907\OneDrive\Desktop\Bank loan Project\Overview Dashboard.pbix")
 
 
